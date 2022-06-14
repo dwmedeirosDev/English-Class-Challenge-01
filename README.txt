@@ -1,14 +1,15 @@
-Participantes: Rian, Shiellyn, Ana Carolina, Rômulo, Ryan, David e Robert
+Participants: Rian, Shiellyn, Ana Carolina, Rômulo, Ryan, David e Robert
 
-Tempo do desafio: 12 minutos
+Challenge time: 12 minutos
 
 
 ##### Instructions: #####
 
-1 - Crie uma MAIN variável que recebe " A english adverb "
+1 - Create a MAIN variable that receives " A english adverb "
 
-2 - Crie uma SIDE variável que receba uma expressão
+2 - Create a SIDE variable that takes an expression
 
-3 - Na Estrutura: Enquanto MAIN for diferente de SIDE, exiba no console uma mensagem.
+3 - In Structure: As long as MAIN is different from SIDE, display a message on the console.
+
 
 

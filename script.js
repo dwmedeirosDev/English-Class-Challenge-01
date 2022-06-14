@@ -8,4 +8,4 @@ while (main !== side) {
 
 
 
-// ##### Código bugado #####
+// ##### Buggy Code #####
